@@ -23,8 +23,26 @@
       "agent": "sami",
       "prompt": "hello",
       "response": "Hello! \u064b\u06ba\u06a9\u0679 How can I assist you today? I'm here to help with any questions or tasks you might have!\n"
+    },
+    {
+      "timestamp": "2026-07-02T13:17:48.445349",
+      "agent": "sami",
+      "prompt": "hello",
+      "response": "Hello! \u064b\u06ba\u06a9\u0679 How can I assist you today?\n"
+    },
+    {
+      "timestamp": "2026-07-02T13:24:03.859862",
+      "agent": "sami",
+      "prompt": "hello",
+      "response": "Hello! \u064b\u06ba\u06a9\u0679 How are you today? I'm here to help with anything you need\u00e2\u20ac\u201dwhether it's answering questions, brainstorming ideas, or just chatting. What's on your mind?\n"
+    },
+    {
+      "timestamp": "2026-07-02T13:33:06.661986",
+      "agent": "sami",
+      "prompt": "sami wuts un a deal",
+      "response": "It seems like your message might have some typos or formatting issues. Could you clarify what you're asking? For example:\n\n- Are you asking about a deal involving someone named Sam or Sami?  \n- Are you looking for advice on negotiating a deal?  \n- Or is there a specific context (e.g., business, personal, transaction) you\u00e2\u20ac\u2122re referring to?  \n\nLet me know, and I\u00e2\u20ac\u2122ll do my best to help! \u064b\u06ba\u06a9\u0679\n"
     }
   ],
-  "total_interactions": 4,
-  "last_active": "2026-07-01T14:16:43.199818"
+  "total_interactions": 7,
+  "last_active": "2026-07-02T13:33:06.662014"
 }
