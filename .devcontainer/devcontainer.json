@@ -126,7 +126,7 @@
 		"ghcr.io/rails/devcontainer/features/activestorage:1": {
 			"variantProcessor": "vips"
 		},
-		"ghcr.io/devcontainer-config/features/dot-config:4": {},
+		"ghcr.io/devcontainer-config/features/dot-config:5": {},
 		"ghcr.io/wcgomes/devcontainer-features/agency-agents:0": {
 			"autoupdate": true
 		},
